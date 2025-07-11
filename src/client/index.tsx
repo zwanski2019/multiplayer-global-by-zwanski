@@ -110,6 +110,7 @@ function App() {
         Powered by <a href="https://cobe.vercel.app/">🌏 Cobe</a>,{" "}
         <a href="https://www.npmjs.com/package/phenomenon">Phenomenon</a> and{" "}
         <a href="https://npmjs.com/package/partyserver/">🎈 PartyServer</a>
+        <a href=https://zwanski.org"> with ❤️ by mohamed zwanski</a>
       </p>
     </div>
   );
